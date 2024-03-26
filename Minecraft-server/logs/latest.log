@@ -1,0 +1,27 @@
+[26Mar2024 00:01:13.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Puigdemont123: Teleported Puigdemont123 to Chimera]
+[26Mar2024 00:01:25.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Puigdemont123 hit the ground too hard
+[26Mar2024 00:01:27.577] [Server thread/WARN] [invtweaks/]: Class not found! Ignoring clause
+[26Mar2024 00:01:27.578] [Server thread/WARN] [invtweaks/]: Class not found! Ignoring clause
+[26Mar2024 00:01:27.578] [Server thread/WARN] [invtweaks/]: Class not found! Ignoring clause
+[26Mar2024 00:01:27.578] [Server thread/WARN] [invtweaks/]: Class not found! Ignoring clause
+[26Mar2024 00:01:27.578] [Server thread/WARN] [invtweaks/]: Class not found! Ignoring clause
+[26Mar2024 00:01:27.579] [Server thread/WARN] [invtweaks/]: Class not found! Ignoring clause
+[26Mar2024 00:01:53.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chimera has made the advancement [It's an Emu!!!]
+[26Mar2024 00:02:13.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chimera: Set own game mode to Creative Mode]
+[26Mar2024 00:03:20.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chimera: Set own game mode to Survival Mode]
+[26Mar2024 00:03:29.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chimera moved too quickly! 7.107819907158273,-3.9345854633511976,-6.318730075455733
+[26Mar2024 00:03:29.375] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3342ms or 66 ticks behind
+[26Mar2024 00:04:00.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chimera was doomed to fall
+[26Mar2024 00:04:02.529] [Server thread/WARN] [invtweaks/]: Class not found! Ignoring clause
+[26Mar2024 00:04:02.530] [Server thread/WARN] [invtweaks/]: Class not found! Ignoring clause
+[26Mar2024 00:04:02.531] [Server thread/WARN] [invtweaks/]: Class not found! Ignoring clause
+[26Mar2024 00:04:02.531] [Server thread/WARN] [invtweaks/]: Class not found! Ignoring clause
+[26Mar2024 00:04:02.531] [Server thread/WARN] [invtweaks/]: Class not found! Ignoring clause
+[26Mar2024 00:04:02.532] [Server thread/WARN] [invtweaks/]: Class not found! Ignoring clause
+[26Mar2024 00:04:06.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chimera: Teleported Chimera to -1445.500000, 79.500000, -1715.500000]
+[26Mar2024 00:04:15.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Puigdemont123: Teleported Puigdemont123 to Chimera]
+[26Mar2024 00:05:57.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chimera: Teleported Chimera to Puigdemont123]
+[26Mar2024 00:07:02.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Puigdemont123 has made the advancement [It's an Emu!!!]
+[26Mar2024 00:07:46.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Puigdemont123: Teleported Puigdemont123 to Chimera]
+[26Mar2024 00:10:04.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Puigdemont123 has made the advancement [Monster Hunter]
+[26Mar2024 00:13:52.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chimera: Teleported Chimera to Puigdemont123]
